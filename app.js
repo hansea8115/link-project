@@ -1,5 +1,5 @@
 // 1. 구글 시트 CSV 웹 게시 URL (여기에 복사한 URL을 넣으세요)
-const CSV_URL = '여기에_웹에게시한_CSV_URL_입력';
+const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3eEeVbLKgTzNpROb5zmnH1xZLrpzcM6lagfldM0pviqL5LZjoQ16x6umb-JA__TvFGQd1euWmPNsF/pub?output=csv';
 
 let allProducts = [];
 let currentCategory = '전체';
